@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning: **MySQL, MongoDB, Node.js**
 
-- ⚡ Fun fact: **If i had a choice, i would be a Power Ranger or a Magical Girl.**
+- ⚡ Fun fact: **If i had a choice, i would be a Warrior with Sword and Shield or a Magical Girl.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
