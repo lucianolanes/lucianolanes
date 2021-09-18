@@ -1,6 +1,6 @@
 <h1 align="left">Hi all, welcome to my GitHub Page</h1>
 <h3 align="center">Web Dev Student at Trybe and Time Traveler.</h3>
-<img src="./images/ctMagus.gif" size="10px">
+<img align="right" src="./images/ctMagus.gif" size="5px">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lucianolanes&label=Profile%20views&color=0e75b6&style=flat" alt="lucianolanes" /> </p>
 
@@ -23,4 +23,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lucianolanes&show_icons=true&locale=en" alt="lucianolanes" /></p>
 
-<img src="ctAllParty.gif">
+<img align="center" src="ctAllParty.gif">
