@@ -1,7 +1,7 @@
 <h1 align="left">Hi all, welcome to my GitHub Page</h1>
 <h3 align="left">Web Dev Student at Trybe and Time Traveler.</h3>
-<img align="right" src="./images/ctMagus.gif" alt="Magus" width="20%">
 <p align="right">
+<img align="right" src="./images/ctMagus.gif" alt="Magus" width="20%">
 <a href="https://linkedin.com/in/lucianolanes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lucianolanes" height="30" width="40" /></a>
 <a href="https://instagram.com/gwarden5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gwarden5" height="30" width="40" /></a>
 </p>
