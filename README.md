@@ -1,4 +1,4 @@
-<h1 align="left">Hi all, welcome to my GitHub Page</h1>
+<h1 align="left"> <Welcome /></h1>
 <p align="center">
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=lucianolanes&label=Profile%20views&color=0e75b6&style=flat" alt="lucianolanes" /> </p>
 <h3 align="left">Web Dev Student at Trybe and Time Traveler.</h3>
