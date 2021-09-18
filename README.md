@@ -1,13 +1,13 @@
 <h1 align="center"> Welcome, Warriors!</h1>
 <p align="center">
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=lucianolanes&label=Profile%20views&color=0e75b6&style=flat" alt="lucianolanes" /> </p>
-<h3 align="left">Web Dev Student at Trybe and Time Traveler.</h3>
+<h3 align="left">I'm Luciano Lanes, Web Dev Student at Trybe and Time Traveler.</h3>
 </p>
 <p align="right">
 <img align="right" src="./images/ctMagus.gif" alt="Magus" width="20%">
 </p>
 
-- :bear: Im Luciano Lanes, a 27y brazilian student in carrer transition where learned so far to make applications using Javascript, React and Redux.
+- :bear: About: A 27y brazilian student in carrer transition where learned so far to make applications using Javascript, React and Redux.
 
 - 👨‍💻 All of my projects are available **Soon...**
 
