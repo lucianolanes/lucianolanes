@@ -7,9 +7,9 @@
 <img align="right" src="./images/ctMagus.gif" alt="Magus" width="20%">
 </p>
 
-- :bear: About: **A 27y brazilian student in carrer transition where learned so far to make applications using Javascript, React and Redux.**
+- :bear: About: **A 27y brazilian student in carrer transition who learned so far to make applications using Javascript, React and Redux.**
 
-- 👨‍💻 All of my projects are available **Soon...**
+- 👨‍💻 All of my projects will be available **Soon...**
 
 - 🌱 I’m currently learning: **MySQL, MongoDB, Node.js**
 
