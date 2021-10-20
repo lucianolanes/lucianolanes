@@ -9,7 +9,7 @@
 
 - :bear: About: **A 27y brazilian student in carrer transition who learned so far to make applications using Javascript, React and Redux.**
 
-- 👨‍💻 Some of my projects are available at <a href="https://lucianolanes.github.io/" target="_blank">**HERE**</a>
+- 👨‍💻 Some of my projects are available <a href="https://lucianolanes.github.io/" target="_blank">**here**</a>
 
 - 🌱 I’m currently learning: **MySQL, MongoDB, Node.js**
 
