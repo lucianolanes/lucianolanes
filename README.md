@@ -15,6 +15,8 @@
 
 - ⚡ Fun fact: **If i had a choice, i would be a Power Ranger or a Magical Girl.**
 
+- :robot: My email: **llaneslopes@gmail.com**
+
 <h3 align="left">Let's Connect:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/lucianolanes" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="lucianolanes" height="30" width="130" /></a>
