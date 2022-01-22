@@ -1,7 +1,7 @@
 <h1 align="center"> Welcome, Warriors!</h1>
 <p align="center">
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=lucianolanes&label=Profile%20views&color=0e75b6&style=flat" alt="lucianolanes" /> </p>
-<h3 align="left">I'm Luciano Lanes, Web Dev Student at Trybe and Time Traveler.</h3>
+<h3 align="left">I'm Luciano Lanes, Back-End Developer and Time Traveler.</h3>
 </p>
 <p align="right">
 <img align="right" src="./images/ctMagus.gif" alt="Magus" width="20%">
