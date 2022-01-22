@@ -11,7 +11,7 @@
 
 - 👨‍💻 Some of my projects are available <a href="https://lucianolanes.github.io/" target="_blank">**here**</a>
 
-- 🌱 I’m currently learning: **Node.js**
+- 🌱 I’m currently learning: **Kotlin <3**
 
 - ⚡ Fun fact: **If i had a choice, i would be a Power Ranger or a Magical Girl.**
 
