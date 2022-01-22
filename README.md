@@ -7,7 +7,7 @@
 <img align="right" src="./images/ctMagus.gif" alt="Magus" width="20%">
 </p>
 
-- :bear: About: **A 28y brazilian student in carrer transition who loves to code and learn something new.**
+- :bear: About: **A 28y brazilian dev who loves to code and learn something new.**
 
 - 👨‍💻 Some of my projects are available <a href="https://lucianolanes.github.io/" target="_blank">**here**</a>
 
