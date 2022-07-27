@@ -13,8 +13,6 @@
 
 - 🌱 I’m currently learning: **Kotlin <3**
 
-- ⚡ Fun fact: **If i had a choice, i would be a Power Ranger or a Magical Girl.**
-
 - :robot: My email: **llaneslopes@gmail.com**
 
 <h3 align="left">Let's Connect:</h3>
