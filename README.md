@@ -11,8 +11,6 @@
 
 - 👨‍💻 Some of my projects are available <a href="https://lucianolanes.github.io/" target="_blank">**here**</a>
 
-- 🌱 I’m currently learning: **Kotlin <3**
-
 - :robot: My email: **llaneslopes@gmail.com**
 
 <h3 align="left">Let's Connect:</h3>
