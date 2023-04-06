@@ -9,8 +9,6 @@
 
 - :bear: About: **A 28y brazilian dev who loves to code and learn something new.**
 
-- 👨‍💻 Some of my projects are available <a href="https://lucianolanes.github.io/" target="_blank">**here**</a>
-
 - :robot: My email: **llaneslopes@gmail.com**
 
 <h3 align="left">Let's Connect:</h3>
