@@ -7,7 +7,7 @@
 <img align="right" src="./images/ctMagus.gif" alt="Magus" width="20%">
 </p>
 
-- :bear: About: **A 28y brazilian dev who loves to code and learn something new.**
+- :bear: About: **A 29y brazilian dev who loves to code and learn something new.**
 
 - :robot: My email: **llaneslopes@gmail.com**
 
